@@ -1,6 +1,6 @@
 # Fadel Matar
 
-![fastodigama](<img src="images/fastodigama.jpg" hight = 80> </img>)
+<img src="images/fastodigama.jpg" height = 80 alt ="Fadel Matar">
 
 [LinkedIn](www.linkedin.com/in/fadelmatar)
 [GitHub](https://github.com/fastodigama)
