@@ -1,6 +1,6 @@
 # Fadel Matar
 
-![fastodigama](images/fastodigama.jpg)
+![fastodigama](<img src="images/fastodigama.jpg" hight = 80> </img>)
 
 [LinkedIn](www.linkedin.com/in/fadelmatar)
 [GitHub](https://github.com/fastodigama)
