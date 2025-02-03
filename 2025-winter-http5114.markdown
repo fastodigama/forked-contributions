@@ -6,7 +6,7 @@
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-
+![fastodigama](images/fastodigama) | Fadel Matar | [fastodigama](students/fastodigama) |
 
 ### Faculty
 
